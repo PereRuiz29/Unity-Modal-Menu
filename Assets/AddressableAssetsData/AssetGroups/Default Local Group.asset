@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cbdb3b7db0bbe77439598bce9bf2dfd2
+  m_SerializeEntries:
+  - m_GUID: 473054cd33f8e2a4c9c3730c7a88652b
+    m_Address: Assets/Prefabs/Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Button
+  - m_GUID: f8fb33569accf5e40b18864c3afee17d
+    m_Address: Assets/Prefabs/ModalWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ModalWindow
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 111fe654c0f6b534ea35b22ffac50808, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ac3faceffbadcb9429119340f225dd4e, type: 2}
+    - {fileID: 11400000, guid: faea353cebd74d7429f672123118e6d2, type: 2}
